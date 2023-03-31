@@ -1,1 +1,1 @@
-### Bayesian-Inference
+### Bayesian Inference
