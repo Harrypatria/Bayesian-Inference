@@ -1,4 +1,4 @@
-### Bayesian Inference
+### Bayesian Inference: Regression Case
 
 ![Alt Text](https://rviews.rstudio.com/post/2018-04-11-Rickert-Greta_files/mod.png)
 
