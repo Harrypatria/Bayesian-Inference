@@ -10,5 +10,6 @@
 
 - Using data from Boston Housing provided by from UCI ML Repository, this study proves that the prior distributions have the benefit of producing analytical, closed-form conclusions, which eliminates the need to use numerical techniques like Markov Chain Monte Carlo (MCMC). Second, software implementations are offered together with formulas for the posterior outcomes that are supplied, clarified, and shown. The assumptions supporting the suggested approach are evaluated in the third step using Bayesian tools. Prior elicitation, posterior calculation, and robustness to prior uncertainty and model sufficiency are the three processes that are essential to Bayesian inference.
 
+
 ### Reference paper based on my publication
 https://talenta.usu.ac.id/JoCAI/article/view/10082
